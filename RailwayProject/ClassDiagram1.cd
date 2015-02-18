@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RailwayProject.RailwayItem">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAACAAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>RailwayItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RailwayProject.Locomotive">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locomotive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RailwayProject.Vagon">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RailwayProject.CargoVagon">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CargoVagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RailwayProject.PassengersVagon">
+    <Position X="9.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAAAAAAAAEAAgAAAAAAAAIIAAAAAAAAAAAA=</HashCode>
+      <FileName>PassengersVagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RailwayProject.PassengersPlace">
+    <Position X="10.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAIAAAAAAAEAAAAgAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>PassengersPlace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

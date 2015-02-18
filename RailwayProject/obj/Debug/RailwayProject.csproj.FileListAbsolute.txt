@@ -1,0 +1,6 @@
+c:\users\000\documents\visual studio 2012\Projects\RailwayProject\RailwayProject\bin\Debug\RailwayProject.exe.config
+c:\users\000\documents\visual studio 2012\Projects\RailwayProject\RailwayProject\bin\Debug\RailwayProject.exe
+c:\users\000\documents\visual studio 2012\Projects\RailwayProject\RailwayProject\bin\Debug\RailwayProject.pdb
+c:\users\000\documents\visual studio 2012\Projects\RailwayProject\RailwayProject\obj\Debug\RailwayProject.csprojResolveAssemblyReference.cache
+c:\users\000\documents\visual studio 2012\Projects\RailwayProject\RailwayProject\obj\Debug\RailwayProject.exe
+c:\users\000\documents\visual studio 2012\Projects\RailwayProject\RailwayProject\obj\Debug\RailwayProject.pdb
